@@ -1,0 +1,4 @@
+@'
+BOT_TOKEN=8538713738:AAFtqH9O6DBQ7kXB8AzfyOq9F7M2iamgFpg
+ADMIN_ID=@seven_inches_of_satanic_panic
+'@ | Out-File -FilePath ".env" -Encoding utf8
